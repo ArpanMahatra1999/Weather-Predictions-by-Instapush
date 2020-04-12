@@ -1,5 +1,4 @@
 # Weather-Predictions-by-Instapush
-
 Python code for weather predictions using Raspberry Pi with Instapush.
 
 Tools used:
